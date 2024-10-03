@@ -13,8 +13,8 @@ Student
 
 * 🌍  I'm based in Crimea, Simferopol
 * ✉️  You can contact me at [florq228@gmail.com](mailto:florq228@gmail.com)
-  <div align="center">
-  <img height="300" width="600" src="https://i.pinimg.com/originals/70/37/d4/7037d478852af21357f038fac2d2e9f6.gif"  />
+<div align="center">
+<img height="100" width="100" src="https://i.pinimg.com/originals/70/37/d4/7037d478852af21357f038fac2d2e9f6.gif"  />
 </div>
 
 <a href="https://www.github.com/satanoki" target="_blank" rel="noreferrer"><img
