@@ -9,8 +9,13 @@ Student
   <img height="300" width="600" src="https://i.pinimg.com/originals/47/20/51/472051c6d88bd2837525520597251d67.gif"  />
 </div>
 
+
+
 * 🌍  I'm based in Crimea, Simferopol
 * ✉️  You can contact me at [florq228@gmail.com](mailto:florq228@gmail.com)
+  <div align="center">
+  <img height="300" width="600" src="[https://i.pinimg.com/originals/47/20/51/472051c6d88bd2837525520597251d67.gif](https://i.pinimg.com/originals/70/37/d4/7037d478852af21357f038fac2d2e9f6.gif)"  />
+</div>
 
 <a href="https://www.github.com/satanoki" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/satanoki?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
